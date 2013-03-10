@@ -13,6 +13,8 @@ package
 			FP.screen.scale = 2;
 			FP.console.enable();
 			FP.console.toggleKey = Key.TAB;
+			
+			//Let's define a world someday
 		}
 	}
 }
